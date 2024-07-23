@@ -1,0 +1,6 @@
+git init 
+git clone ssh(user fork)
+git status
+git add .
+git remote add origin -v ssh(user fork)
+git push origin master
