@@ -2,5 +2,6 @@ git init
 git clone ssh(user fork)
 git status
 git add .
+git commit -m "Instruction"
 git remote add origin -v ssh(user fork)
 git push origin master
